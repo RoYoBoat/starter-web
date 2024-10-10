@@ -21,3 +21,7 @@ Deployment Stuff
 ## How To Contribute
 
 Contribute Stuff
+
+### Copyright
+
+All rights reserved
