@@ -6,6 +6,7 @@ Adding some more text
 
 Then some more changes from myfeature branch too
 
+Emergency fix after stashing
 ## Intro
 
 Intro stuff
